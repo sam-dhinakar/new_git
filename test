@@ -7,6 +7,7 @@ third line
 >>>>>>> dhina
 ||||||| parent of 74ce66c (dhinacommit)
 My 2nd line
+<<<<<<< HEAD
 ||||||| parent of 74ce66c (dhinacommit)
 My 2nd line
 =======
@@ -17,4 +18,9 @@ My second line
 My second line
 3rd line
 >>>>>>> 74ce66c (dhinacommit)
+||||||| parent of 6d42497 (thincommit)
+3rd line
+=======
+third line
+>>>>>>> 6d42497 (thincommit)
 4th line
