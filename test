@@ -1,11 +1,17 @@
 Hello mame
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 My second line
 third line
 >>>>>>> dhina
 ||||||| parent of 74ce66c (dhinacommit)
 My 2nd line
+||||||| parent of 74ce66c (dhinacommit)
+My 2nd line
+=======
+My second line
+>>>>>>> 74ce66c (dhinacommit)
 3rd line
 =======
 My second line
